@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_page_section_modules",
+  "info": {
+    "name": "sectionModules",
+    "icon": "book"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "module": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page.module"
+    }
+  }
+}

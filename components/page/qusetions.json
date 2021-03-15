@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_page_qusetions",
+  "info": {
+    "name": "qusetions",
+    "icon": "question-circle"
+  },
+  "options": {},
+  "attributes": {
+    "qusetion": {
+      "type": "text",
+      "required": true
+    },
+    "answer": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
